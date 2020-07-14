@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "aotroutes"
+    }
+  },
+  "defaultProject": "aotroutes",
+  "cli": {
+    "analytics": "0f271cc5-bd40-4b1f-860a-870b1ded434d"
+  }
 }
